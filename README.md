@@ -1,5 +1,5 @@
 # TicTacToeGame
-**Description**: Interactive TicTacToe game that allows you to pick between playing with a friend or against a computer.
+**-Description**: Interactive TicTacToe game that allows you to pick between playing with a friend or against a computer.
 
 **-Menu**:
   The menu was handled using the graphics library p5.js. It is much more straight forward than HTML canvas, has an extensive amount of tutorials on Youtube which make it extremely accessible, and allows for on the fly interactive graphics. For more information and documentation check (https://p5js.org/).
