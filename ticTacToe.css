@@ -1,0 +1,33 @@
+button{
+height:100px;
+width:100px;
+border:none;
+}
+
+.replaceO{
+height:100px;
+width:100px;
+font-size: 60px;
+background: rgb(254, 194, 3);
+border:none;
+display:inline;
+
+}
+.replaceX{
+height:100px;
+width:100px;
+font-size: 60px;
+background:red;
+border:none;
+display:inline;
+}
+
+#row1{
+  display:inline;
+}
+#row2{
+  display:inline;
+}
+#row3{
+  display:inline;
+}
